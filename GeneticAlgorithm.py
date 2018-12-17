@@ -1,7 +1,7 @@
 #!./bin/python
 '''
 Code By Michael Sherif Naguib
-Liscence: MIT open source
+license: MIT open source
 Date: 12/11/18
 @University of Tulsa
 Description: a small library for a genetic algorithm..
