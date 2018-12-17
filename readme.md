@@ -8,7 +8,7 @@
 - an implememtation of a genetic algorithm; the library code is designed to be used for any specific problem however a string search is implemented here
 - the program currently is given a target string for which the fitness function is tailored to provide hints in the form of a fitness value
 - this was just a side project to learn more about genetic algorithms...
-- also there are some ideas... and realizations I made while messing around with the parameters of the algorithm... s
+- also there are some ideas... and realizations I made while messing around with the parameters of the algorithm... 
 ## TODO:
 - convert inline documentation into a readme... and standardize conventions
 - provide use case example
