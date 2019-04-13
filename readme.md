@@ -1,6 +1,6 @@
 # GeneticAlgorithm
 - Code By Michael Sherif Naguib
-- license: MIT open source
+- Liscence: MIT open source
 - Date: 12/11/18
 - @University of Tulsa
 - Description: a small library for a genetic algorithm... this is the seccond version of the code after I took more time to think as to how it could be implemented
