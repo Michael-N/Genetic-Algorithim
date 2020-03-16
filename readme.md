@@ -10,6 +10,13 @@
 - this was just a side project to learn more about genetic algorithms...
 - also there are some ideas... and realizations I made while messing around with the parameters of the algorithm... 
 
+## Examples
+- ```example_G.py``` was run on the target '*make it so commander data said piccard*' (without spaces) 
+![exampleGARunning](exampleGA.gif)
+- The genome space was all possible letters of the alphabet; 
+- The mutation function would simply ofset the character from its order in the alphabet: i.e the letter **a** would be given a random offset ... so for example an offset of 12 would yield the letter **m**
+- Genetic algorithms are very good at performing acceptably in many domains across computer science given the right fitness and mutation functions are determined. 
+
 ## Documentation: for file ```GeneticAlgorithm.py```
 - Description: this file was a first attempt at a genetic algorithm without optimization...
 - An example of a String Finder GA for this code is in file ```example_GA.py```
